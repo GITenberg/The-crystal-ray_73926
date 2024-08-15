@@ -5,6 +5,9 @@ contributor:
     agent_name: Strother, S.
     gutenberg_agent_id: '57277'
     url: http://www.gutenberg.org/2009/agents/57277
+covers:
+- cover_type: archival
+  image_path: 73926-h/images/cover.jpg
 creator:
   author:
     agent_name: Gallun, Raymond Z.
@@ -17,6 +20,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/28382
     wikipedia: http://en.wikipedia.org/wiki/Raymond_Z._Gallun
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/73926#The-crystal-ray
 gutenberg_issued: '2024-06-27'
 gutenberg_type: Text
 identifiers:
